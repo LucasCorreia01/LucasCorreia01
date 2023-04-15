@@ -1,7 +1,10 @@
-### Me chamo: Lucas Damasceno 👋
+### Me chamo Lucas Damasceno 👋
 
-- 🌱 Estudando Dart e Flutter.
-- ⚡ Apaixonado por tecnologia.
+- 😍 Apaixonado por tecnologia.
+- 📚 Estudando Dart e Flutter.
+
+<h5>Eai, vamos construir o futuro juntos? 🚀</h5>
+
 
  
  <div style="display: inline_block"><br>
