@@ -1,6 +1,6 @@
 ### Me chamo Lucas Damasceno 👋
 
-- 😍 Apaixonado por tecnologia.
+- Apaixonado por tecnologia.
 - 🖥️ Desenvolvedor web.
 - 📚 Estudando Mobile: Dart e Flutter.
 
